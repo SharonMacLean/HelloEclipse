@@ -3,6 +3,6 @@ public class HelloApp {
 
 	public static void main(String[] args)
 	{
-		System.out.println("Hello Sharona!");
+		System.out.println("Hello Sharon MacLean!");
 	}
 }
